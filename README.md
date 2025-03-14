@@ -140,7 +140,7 @@ Share your future plans to build trust:
 
 ## Testimonials 💬
 Add quotes from early users:
-- “This API saved us hours of work and improved our customer engagement.” – Jane Doe, CEO of XYZ Corp.
+- “This API saved us hours of work and improved our customer engagement.” –  jake.
 - “The documentation is so clear, even a beginner can integrate it in minutes.” – John Smith, Developer.
 
 ---
