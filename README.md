@@ -107,7 +107,7 @@ GET /api/v1/calls/{call_id}/recording
 
 ## Pricing 💵
 Provide a clear pricing structure:
-- **Free Tier:** 100 calls/month.
+- **Free Tier:**  test credits.
 - **Pro Tier:** $0.01 per call + advanced features.
 - **Enterprise Tier:** Custom pricing for high-volume users.
 
