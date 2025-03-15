@@ -4,7 +4,7 @@
 import requests
 import json
 
-# API URL where the PHP file is hosted
+# API URL
 API_URL = ''  
 def signup():
     data = {
