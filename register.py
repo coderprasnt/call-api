@@ -8,7 +8,7 @@ import json
 API_URL = ''  
 def signup():
     data = {
-        'api_key': 'FAITHSIRG',
+        'api_key': '1ebeb745196d6995',
         'action': 'signup',
         'username': 'testus1er',
         'password': 'password123',
